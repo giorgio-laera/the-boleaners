@@ -35,5 +35,11 @@ color: aqua;
 }
 .text-evidenziato{
     background-color: yellow;
+   
+}
+ul{
+ margin: 40px 0;
+  padding-left: 15px;
+ text-align: left;
 }
 
